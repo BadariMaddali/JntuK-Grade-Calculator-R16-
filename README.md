@@ -7,7 +7,7 @@ It is Free and doesnot require any permissions.
 It is Developed in Dart Language and Flutter Framework.
 
 
- <p align = "left"> This app is not published on play store but you can be <a href = "https://www.google.com/urlq=https://drive.google.com/file/d/1MWtU4xYmJ6egpj1zU4L4D0aSi7fpRMel/view?usp%3Ddrivesdk&sa=D&source=hangouts&ust=1591513891250000&usg=AFQjCNHWoqgxz2zvu6A1SquKx9p3bWMB2g">
+ <p align = "left"> This app is not published on play store but you can be <a href = "https://drive.google.com/file/d/1MWtU4xYmJ6egpj1zU4L4D0aSi7fpRMel/view">
   Download</a>
    it from here. 
 </p>
