@@ -1,4 +1,4 @@
-# jntuk_grade_calculator -Android App
+# jntuk R16 GPA calculator -Android App
 
 <img src = "android/app/src/main/res/mipmap-hdpi/ic_launcher.png" width = 100 height = 100 hspace=20 vspace=40 align = "left"/>
 
@@ -15,7 +15,7 @@ It is Developed in Dart Language and Flutter Framework.
 
 ## About
 
-JntuK R16 Grade Calculator is made to calculate Sgpa and Cgpa of a JntuK R16 student of BTech Degree and selected Branches.
+JntuK R16 GPA Calculator is made to calculate Sgpa and Cgpa of a JntuK R16 student of BTech Degree and selected Branches.
 
 This android application is also helpful in storing and accessing the grades of a student easily.
 
@@ -31,6 +31,12 @@ This android application lets you:
 - Supports Android version of 8 and Above.
 - An add-free application.
 
+## Screenshots
+
+<img src = "readmess/app.png" width = 170 height = 350 align = "left"/>
+<img src = "readmess/sgpa.png" width = 170 height = 350 align = "left"/>
+<img src = "readmess/cgpa.png" width = 170 height = 350 align = "left"/>
+<img src = "readmess/saveyourgrades.png" width = 170 height = 350/>
 
 ## Permissions
 
